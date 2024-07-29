@@ -92,7 +92,6 @@ section h1 {
 
 .section_item:hover {
     transform: scale(1.05);
-    cursor: pointer;
 }
 
 footer {
